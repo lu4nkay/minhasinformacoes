@@ -1,0 +1,5 @@
+- 👋 Oi, eu sou @lu4nkay
+- 👀 Estou interessado em construir websites
+- 🌱 Eu estou aprendendo HTML5, CSS e JavaScript
+- 💞️ Eu tenho 13 anos de idade
+- 📫 Eu moro no Macaé, Rio de Janeiro - Brasil
