@@ -1,5 +1,4 @@
-- 👋 Oi, eu sou @lu4nkay
-- 👀 Estou interessado em construir websites
-- 🌱 Eu estou aprendendo HTML5, CSS e JavaScript
-- 💞️ Eu tenho 13 anos de idade
-- 📫 Eu moro no Macaé, Rio de Janeiro - Brasil
+- 👋 Olá, me chamo Luan Kayllon, mas conhecido como Ban
+- 🌱 Eu estou aprendendo Python
+- 💞 Eu tenho 14 anos de idade
+- 📫 Atualmente estou vivendo em Macaé, Rio de Janeiro - Brasil
